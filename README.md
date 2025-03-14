@@ -33,8 +33,7 @@ En este __Proyecto de Ciencia de Datos__ se analizará el flujo vehicular en la
 Ciudad de Córdoba con datos disponibles desde Agosto de 2019 a la actualidad, obtenidos de la página de la [Analítica de Tráfico de la
 Municipalidad de
 Córdoba](1)
-correspondiente a la cámara ubicada en Bv. Chacabuco y Bv. Illia con orientación
-hacia puente Maipú.
+correspondiente a la cámara ubicada en Av. Olmos esquina Av. Maipu.
 
 La carpeta con los datos contiene archivos `.json` con información del flujo
 vehicular. El nombre de cada archivo se especifica de la siguiente forma:
